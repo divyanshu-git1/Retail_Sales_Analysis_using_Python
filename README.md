@@ -4,4 +4,5 @@ I have done EDA, data cleaning, summarization, visualization and generated insig
 #  Volume vs Value — Which Store Format Wins on Each?
   In this business problem, I have made a summary of which store type is selling more quantity of products and which store is generating the most revenue.
   From the analysis, i found that among all stores 'e-shop' is leading the int the race.
+  e-shop constitutes 20.07% of total quantity sold of whole.
   
